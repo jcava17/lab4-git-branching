@@ -15,8 +15,8 @@ You will:
 ## Branch Summaries
 
 - `main`: Original story starter
-- `hero-path`: _[Describe your changes here]_
-- `villain-path`: _[Describe your changes here]_
+- `hero-path`: _[pulls the sword, defeats the dragon and becomes a hero for the village]]_
+- `villain-path`: _[the squirrel recommends taking a potion for endless power and wealth]]_
 
 ## Final Checklist
 
