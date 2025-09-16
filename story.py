@@ -20,4 +20,4 @@ def center_path():
     print("You walk down the center and encounter a magic genie that will grant you three wishes.")
 
 if __name__ == "__main__":
-    intro():
+    
