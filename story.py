@@ -14,5 +14,8 @@ def left_path():
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
 
+def center_path():
+    print("You walk down the center and encounter a magic genie that will grant you three wishes.")
+
 if __name__ == "__main__":
-    intro()
+    intro():
